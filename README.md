@@ -1,8 +1,7 @@
-<center>
+
 # 👋 Hi, I'm Bhavesh Parmar  
 
 🚀 **B.Tech (IT) Student | Aspiring Software Developer**
-</center>
 ---
 
 ## 🌈 About Me
