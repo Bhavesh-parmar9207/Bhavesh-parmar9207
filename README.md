@@ -92,7 +92,7 @@
   </a>
   &nbsp;&nbsp;&nbsp;
 
-  <a href="https://github.com/bhaveshparmar9207" target="_blank">
+  <a href="https://github.com/Bhavesh-parmar9207" target="_blank">
     <img
       align="center"
       alt="Jay surani | GitHub"
