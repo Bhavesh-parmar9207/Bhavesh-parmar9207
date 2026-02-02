@@ -40,7 +40,7 @@
 ---
 
 ## 🔗 Explore More Projects
-👉 [GitHub Repositories]([https://github.com/Bhavesh-repositories](https://github.com/Bhavesh-parmar9207/Bhavesh-parmar9207))
+👉 [GitHub Repositories](https://github.com/Bhavesh-parmar9207?tab=repositories)
 
 ---
 
