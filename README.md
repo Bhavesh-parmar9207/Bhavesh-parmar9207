@@ -1,5 +1,5 @@
 
-<h1 align="ceneter"># 👋 Hi, I'm Bhavesh Parmar</h1>  
+<h1 align="ceneter">👋 Hi, I'm Bhavesh Parmar</h1>  
 
 <h3 align="center">🚀 B.Tech (CE) Student </h3>
 ---
