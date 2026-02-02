@@ -55,7 +55,7 @@
 
 ## 🌱 Currently Focusing On
 
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=js,react,nodejs,python,git" />
 </p>
 
